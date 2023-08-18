@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Travel-Packing-Website/static/css/main.825a3e8f.css",
+    "main.js": "/React-Travel-Packing-Website/static/js/main.e463b728.js",
+    "index.html": "/React-Travel-Packing-Website/index.html",
+    "main.825a3e8f.css.map": "/React-Travel-Packing-Website/static/css/main.825a3e8f.css.map",
+    "main.e463b728.js.map": "/React-Travel-Packing-Website/static/js/main.e463b728.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.825a3e8f.css",
+    "static/js/main.e463b728.js"
+  ]
+}
